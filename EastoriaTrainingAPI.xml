@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>“astoriaTrainingAPI</name>
+    </assembly>
+    <members>
+        <member name="M:_astoriaTrainingAPI.Controllers.EmployeeMastersController.DeleteEmployeeMaster(System.Int64)">
+            <summary>
+            This method used to Delete Employee from DataBase
+            </summary>
+            <param name="id"> Interger Parameter is required</param>
+            <returns> Return EmployeeMaster Entity</returns>
+        </member>
+    </members>
+</doc>
